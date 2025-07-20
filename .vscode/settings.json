@@ -1,0 +1,18 @@
+{
+    "cSpell.words": [
+        "cmap",
+        "crossentropy",
+        "fdata",
+        "figsize",
+        "imread",
+        "imsave",
+        "imwrite",
+        "MICCAI",
+        "nibabel",
+        "patchify",
+        "splitfolders",
+        "Unet",
+        "xlabel",
+        "ylabel"
+    ]
+}
